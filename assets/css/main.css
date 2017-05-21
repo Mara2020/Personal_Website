@@ -1793,6 +1793,10 @@
 			text-align: center;
 			padding: 3em 0 3em 0;
 		}
+			.main.style1 img {
+				border-radius: 50%;
+				width: 150px;
+			}
 
 			.main.style1 h2 {
 				font-size: 4.25em;
