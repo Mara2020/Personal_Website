@@ -228,7 +228,7 @@
 					}, 100);
 
 				})
-				.load(function() {
+				.on('load', function() {
 					$window.trigger('resize');
 				});
 
